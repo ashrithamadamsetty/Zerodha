@@ -1,0 +1,8 @@
+backend/
+dashboard/
+node_modules/
+.git/
+.env
+.env.local
+README.md
+screenshots/

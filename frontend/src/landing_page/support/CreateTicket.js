@@ -8,7 +8,7 @@ function CreateTicket() {
         </h1>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-plus-circle" aria-hidden="true"></i>Account Opening
+          <i className="fa fa-plus-circle" aria-hidden="true"></i>Account Opening
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Online Account Opening</a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Offline Account Opening</a> <br/>
@@ -20,7 +20,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-book"></i> Your Zerodha Account 
+          <i className="fa fa-book"></i> Your Zerodha Account 
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Login Credentials  </a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}>  Account Modification and Segment Addition </a><br/> 
@@ -30,7 +30,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-file-text"></i> Your Zerodha Account
+          <i className="fa fa-file-text"></i> Your Zerodha Account
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Margin/leverage, Product and Order types </a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Kite Web and Mobile </a> <br/>
@@ -44,7 +44,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-money"></i>Funds
+          <i className="fa fa-money"></i>Funds
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Adding Funds  </a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Fund Withdrawal</a> <br/>
@@ -53,7 +53,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-bar-chart"></i>Console
+          <i className="fa fa-bar-chart"></i>Console
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Reports </a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> Ledger </a><br/> 
@@ -64,7 +64,7 @@ function CreateTicket() {
         </div>
         <div className="col-4 p-5 mb-2 mt-2">
         <h4 className="">
-          <i class="fa fa-dot-circle-o"></i>Coin
+          <i className="fa fa-dot-circle-o"></i>Coin
         </h4>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}>Understanding Mutual Fund</a><br/>
          <a href="ex" style={{textDecoration:"none",lineHeight:"2.5"}}> About Coin</a><br/> 
