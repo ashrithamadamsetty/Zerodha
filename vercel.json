@@ -4,6 +4,8 @@
   "outputDirectory": "frontend/build",
   "regions": ["iad1"],
   "env": {
-    "NODE_ENV": "production"
-  }
+    "NODE_ENV": "production",
+    "REACT_APP_API_URL": "@react_app_api_url"
+  },
+  "envFile": ".env.production"
 }
