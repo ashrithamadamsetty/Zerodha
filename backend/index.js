@@ -30,7 +30,9 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 app.use(bodyparser.json());
-
+app.get("/", (req, res) => {
+  res.send("Zerodha Backend Running 🚀");
+});
 // Health check endpoint
 app.get('/api/health', (req, res) => {
   res.status(200).json({ status: 'OK', timestamp: new Date().toISOString() });
